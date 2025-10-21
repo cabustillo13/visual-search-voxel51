@@ -1,5 +1,8 @@
 # Custom
 images/
+embeddings.npy
+faiss_index.bin
+filenames.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
