@@ -33,9 +33,9 @@ Contiene **44.441** imágenes de prendas de ropa, donde aparece una prenda de in
 
 Top 5 de imágenes similares.
 
-![Ejemplo 1](./src/example_1.png)
+![Ejemplo 1](src/example_1.png)
 
-![Ejemplo 2](./src/example_2.png)
+![Ejemplo 2](src/example_2.png)
 
 ## 4) Aspectos de mejora adicional
 - Agregar una **etapa de detección de objetos**: en caso que la imagen contenga muchas prendas.
